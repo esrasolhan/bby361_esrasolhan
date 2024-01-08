@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: localhost
--- Üretim Zamanı: 08 Oca 2024, 14:23:56
+-- Üretim Zamanı: 08 Oca 2024, 15:21:57
 -- Sunucu sürümü: 10.4.28-MariaDB
 -- PHP Sürümü: 8.0.28
 
@@ -20,6 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Veritabanı: `bby361_esrasolhan`
 --
+CREATE DATABASE IF NOT EXISTS `bby361_esrasolhan` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `bby361_esrasolhan`;
 
 -- --------------------------------------------------------
 
